@@ -1,0 +1,33 @@
+_repo: El-Tratado-de-Paris-Conferencias-pronunciadas-en-el-circulo-de-la-Union-mercantil-en-los-dias__61700
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Montero Ríos, Eugenio
+    aliases:
+    - Rios, Euxenio (Euxenio Maria Montero)
+    - Ríos, Eugenio Montero
+    - Ríos, Euxenio (Euxenio María Montero)
+    birthdate: 1832
+    deathdate: 1914
+    gutenberg_agent_id: '51566'
+    url: http://www.gutenberg.org/2009/agents/51566
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Eugenio_Montero_R%C3%ADos
+    - https://es.wikipedia.org/wiki/Eugenio_Montero_R%C3%ADos
+description: ''
+gutenberg_issued: '2020-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61700'
+  lccn: 08026494
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Treaty of Peace between the United States and Spain (1898 December 10)'
+- !lcc 'E660'
+- GITenberg
+title: "El Tratado de París\r\nConferencias pronunciadas en el círculo de la Unión\
+  \ mercantil en los días 22, 24 y 27 de febrero de 1904"
+url: http://www.gutenberg.org/ebooks/61700
