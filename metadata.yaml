@@ -1,5 +1,8 @@
 _repo: El-Tratado-de-Paris-Conferencias-pronunciadas-en-el-circulo-de-la-Union-mercantil-en-los-dias__61700
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 61700-h/images/cover.jpg
 creator:
   author:
     agent_name: Montero Ríos, Eugenio
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Eugenio_Montero_R%C3%ADos
     - https://es.wikipedia.org/wiki/Eugenio_Montero_R%C3%ADos
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61700#El-Tratado-de-Paris-Conferencias-pronunciadas-en-el-circulo-de-la-Union-mercantil-en-los-dias_
 gutenberg_issued: '2020-03-29'
 gutenberg_type: Text
 identifiers:
